@@ -83,7 +83,7 @@ else:
 Clone the repository:
 
 
-git clone https://github.com/<your-username>/breast-cancer-classification.git
+git clone https://github.com/<Om20An00>/breast-cancer-classification.git
 Install dependencies:
 
 
